@@ -12,6 +12,8 @@ This repository contains the code for the Character Evolution Page, a key featur
 
 **Screenshot**
 Below is a screenshot of the Character Evolution Page:
+<img width="1511" alt="image" src="https://github.com/user-attachments/assets/f278fe2a-acaf-449c-8380-3327b7f20280">
+
 
 
 **Usage**
